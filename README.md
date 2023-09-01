@@ -1,6 +1,6 @@
 <h1 align="center">Namaste 🙏, I'm Subroto</h1>
 <div align="center"><img src="https://github.com/SUBROTOKOIRY/SUBROTOKOIRY/blob/main/SUBROTO%20KOIRY%20(2).png"></div>
-<h3 align="center">A Computer Science geek developing niche on Full Stack Development.</h3>
+<h3 align="center">A Computer Science geek who loves developing stuffs and learn new things.</h3>
 
 - 🔭 I’m currently a pre-final year student at [JSS Science & Technology University](https://jssstuniv.in/)
 

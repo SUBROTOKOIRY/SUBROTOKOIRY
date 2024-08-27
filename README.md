@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently a pre-final year student at [JSS Science & Technology University](https://jssstuniv.in/)
 
-- 🌱 I’m currently strengthning my skills on **ReactJs & NodeJs**
+- 🌱 I’m currently strengthning my skills on **Devops**
 
 - 👯 I have recently made a real-time chat web-app using MERN and scoket.io [TalkBook](https://github.com/SUBROTOKOIRY/TalkBook)
 

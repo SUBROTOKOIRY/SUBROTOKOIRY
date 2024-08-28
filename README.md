@@ -2,11 +2,11 @@
 <div align="center"><img src="https://github.com/SUBROTOKOIRY/SUBROTOKOIRY/blob/main/SUBROTO%20KOIRY%20(2).png"></div>
 <h3 align="center">A Computer Science geek who loves developing stuffs and learn new things.</h3>
 
-- 🔭 I’m currently a pre-final year student at [JSS Science & Technology University](https://jssstuniv.in/)
+- 🔭 I’m currently a final year student at [JSS Science & Technology University](https://jssstuniv.in/)
 
-- 🌱 I’m currently strengthning my skills on **Devops**
+-  💻 Full Stack Developer .
 
-- 👯 I have recently made a real-time chat web-app using MERN and scoket.io [TalkBook](https://github.com/SUBROTOKOIRY/TalkBook)
+- 🌱 Actively engaged in developing practical projects and currently strengthning my skills on **Cloud & Devops**
 
 - 👨‍💻 All of my projects are available at [https://subrotokoiry.github.io/My-website/](https://subrotokoiry.github.io/My-website/)
 
